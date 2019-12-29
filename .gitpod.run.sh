@@ -1,2 +1,2 @@
-cp -r /workspace/regular-invest-maths/.jupyter /home/gitpod/
+cp -r $GITPOD_REPO_ROOT/.jupyter /home/gitpod/
 jupyter notebook
